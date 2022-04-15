@@ -1,0 +1,44 @@
+{
+  "medicene": [
+    {
+      "id": 1,
+      "name": "Augmentin",
+      "stock": 98,
+      "description": "Augmentin is a (broad spectrum) antibiotic that can be used to treat infections caused by many different types of bacteria. Antibiotics are drugs used to stop and destroy harmful bacteria that threaten the body. The most common uses of Augmentin include infections of the ear, nose, throat, bronchitis, pneumonia, skin and urinary tract infections. Amoxicillin in Augmentin is an antibiotic belonging to the penicillin class.",
+      "price": "5",
+      "photoUrl": "https://adamonline.com/uploads/products/medium/1000199.png"
+    },
+    {
+      "id": 2,
+      "name": "Parol",
+      "stock": 78,
+      "description": "It is a pain reliever-fever reducer with 500 mg paracetamol in each tablet. PAROL is available in packages of 20 and 30 tablets. Mild to severe pains and severe symptomatic (not sickening, used in the treatment).",
+      "price": "4",
+      "photoUrl": "https://www.atabay.com/wp-content/uploads/2019/01/Parol-Paracetamol-20.png"
+    },
+    {
+      "id": 3,
+      "name": "Pharmaton",
+      "stock": 54,
+      "description": "Pharmaton 50 Plus is a product containing Omega 3 fatty acids, multivitamins and minerals. Pharmaton 50 Plus content has been formulated in accordance with the needs of all individuals aged 50 and over. Unlike standard multivitamin supplements, the product is a multivitamin containing omega 3 fatty acids (EPA, DHA).",
+      "price": "7",
+      "photoUrl": "https://m.media-amazon.com/images/I/718p8DGVjNL.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Aferin",
+      "stock": 32,
+      "description": "Each film-coated tablet contains 650 mg paracetamol, 4 mg chlorpheniramine maleate. A-FERIN FORTE is included in the group of cough and cold preparations. It is used in cases such as runny nose, sneezing, itching in the nose and throat, headache, muscle pain, sore throat, body aches, fever, cold, watery eyes and itching due to flu and cold.",
+      "price": "1",
+      "photoUrl": "https://interaktifsozluk.net/u/img/525090_51466.png"
+    },
+    {
+      "name": "Nurofen",
+      "stock": "50",
+      "price": "2",
+      "photoUrl": "https://ogrencigundemi.com/wp-content/uploads/2021/10/en-iyi-grip-ilaci-nurofen-cold.jpg",
+      "description": "Nurofen has the effect of reducing pain and inflammation by preventing the release of prostaglandin produced by the body due to injuries such as illness or accident. It is a pain reliever with antipyretic effect. It has the feature of relieving the symptoms of cold and flu.",
+      "id": 5
+    }
+  ]
+}
